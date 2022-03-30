@@ -1,4 +1,4 @@
-import styled from "styled-components";
+
 import "../App.css";
 import { Advert, ContainerCards, ContainerCounter, ContainerNumbers, Logos, Numbers, SocialMedia, TextNumbers, Titles } from "./componentStyle/styles";
 
